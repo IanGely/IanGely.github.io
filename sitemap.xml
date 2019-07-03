@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/xsl" href="https://angl.xyz/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://angl.xyz/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://angl.xyz/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angl.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angl.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
