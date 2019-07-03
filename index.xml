@@ -6,7 +6,7 @@
     <description>Recent content on Oroz - A coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 11:29:31 +0800</lastBuildDate>
     
 	<atom:link href="https://angl.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,15 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://angl.xyz/post/hello-world/</link>
+      <pubDate>Tue, 02 Jul 2019 11:29:31 +0800</pubDate>
+      
+      <guid>https://angl.xyz/post/hello-world/</guid>
+      <description> Hello World </description>
     </item>
     
   </channel>
