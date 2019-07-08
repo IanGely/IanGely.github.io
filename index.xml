@@ -6,7 +6,7 @@
     <description>Recent content on Oroz - A coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jul 2019 11:29:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 18:07:01 +0800</lastBuildDate>
     
 	<atom:link href="https://angl.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,15 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>PHPCS 的安装与配置</title>
+      <link>https://angl.xyz/post/install-phpcs/</link>
+      <pubDate>Mon, 08 Jul 2019 18:07:01 +0800</pubDate>
+      
+      <guid>https://angl.xyz/post/install-phpcs/</guid>
+      <description>安装使用 Composer 1 composer global require &amp;#34;squizlabs/php_codesniffer=*&amp;#34; 将 ~/.composer/vendor/bin/ 添加到 PATH 环境变量中 使用 查看帮助 1 phpcs --help 添加标准： 1 phpcs --config-set installed_paths PATH_TO_SEARCH_STANDARDS 查看已经安装的标准 1 phpcs -i 查看配置 1 phpcs --config-show 检查代码规范 1 2 3 phpcs ./codes/Example.php</description>
     </item>
     
     <item>
