@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Oroz - A coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jul 2019 18:07:01 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 18:04:32 +0800</lastBuildDate>
     
 	<atom:link href="https://angl.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ecs Net Ipv4 Problem</title>
+      <link>https://angl.xyz/post/ecs-net-ipv4-problem/</link>
+      <pubDate>Thu, 25 Jul 2019 18:04:32 +0800</pubDate>
+      
+      <guid>https://angl.xyz/post/ecs-net-ipv4-problem/</guid>
+      <description>Linux 常用内核网络参数 参数 描述 net.core.rmem_default 默认的 TCP 数据接收窗口大小（字节）。 net.core.rmem_max 最大的 TCP 数据接收窗口（字节）。 net.core.wmem_default 默认的 TCP 数据发送窗口大小（字节）。 net.core.netdev_max_backlog 在每个网</description>
+    </item>
     
     <item>
       <title>PHPCS 的安装与配置</title>
